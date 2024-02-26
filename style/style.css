@@ -1,0 +1,57 @@
+.navbar {
+    background-color: #450C24;
+}
+
+.navbar a {
+    color: #FF8407;
+}
+
+.hero {
+    background-image: linear-gradient(to bottom, #450C24, #B41C5C);
+    background-repeat: no-repeat;
+    height: 650px;
+}
+
+.hero .btn {
+    background-color: #FF8407;
+    width: 200px;
+}
+
+.hero img {
+   width: 500px;
+    /* margin-left: 300px; */
+}
+
+.hero .bgForm h5{
+    background-color: #450C24;
+    color: white;
+  
+}
+
+.hero .bgForm .btn{
+    background-color: #450C24;
+    color: white;
+    margin-left: 130px;
+    
+  
+}
+
+.MyLg {
+    width: 300px;
+    background-color: #450C24;
+    color: white;
+    border-radius: 10px;
+    margin-top: 150px;
+    margin-bottom: 150px;
+ 
+}
+
+.MyLg .btn{
+    background-color: #FF8407;
+    
+}
+
+.header {
+    background-color: #450C24;
+    color: #FF8407;
+}

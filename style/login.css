@@ -1,0 +1,26 @@
+
+.navbar {
+    background-color: #450C24;
+}
+
+.navbar a {
+    color: #FF8407;
+}
+
+.container .MyLg {
+    width: 400px;
+    background-color: #450C24;
+    color: white;
+    border-radius: 10px;
+    margin-top: 150px;
+    margin-bottom: 300px;
+    padding: auto;
+   
+ 
+}
+
+.MyLg .btn{
+    background-color: #FF8407;
+ 
+    
+}

@@ -1,0 +1,77 @@
+
+
+.navbar {
+    background-color: #450C24;
+}
+
+.navbar a {
+    color: #FF8407;
+}
+
+
+.jumbotron {
+    background: url(../image/kapi.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 500px;
+    padding-bottom: 50px;
+    color: white;
+}
+
+.pesan{
+    color: #ffc107;
+}
+
+.card {
+   
+    margin: auto;
+    background-color: #FFFDFD;
+    border-radius: 30px;
+    box-shadow:10px 10px transparent: 5px, #888888; 
+    margin-top: -200px;
+    
+}
+
+.cardbody{
+    padding-bottom: 100px;
+}
+
+.card {
+   
+    background-color: #450C24;
+    color: white;
+    border-radius: 10px;
+    padding: auto;
+}
+
+.card .Mydf {
+   
+    color: white;
+    border-radius: 10px;
+    padding: auto;
+}
+
+.hasil{
+    background-color: #0b56a7;
+    color: #FFFDFD;
+}
+
+.output {
+    /* width: 300px;
+    height: 300px; */
+    display: inline-block;
+    /* box-shadow: 5px 10px 50px ; */
+
+}
+
+.hasil .stawal {
+    display: inline-block;
+    
+}
+
+.hasil .sttujuan {
+    display: inline-block;
+}
+
+
+
